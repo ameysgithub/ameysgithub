@@ -3,7 +3,7 @@
 - I am currently working on front-end, would love to learn about back-end and turn into a full-stack developer
 - I'm currently working with HTML, CSS, Javascript
 - I'm currently learning more on JavaScript and React
-- DM me @ <a href="https://twitter.com/ameystwt">Twitter profile</a>
+- DM me @ <a href="https://twitter.com/ameystwt">my twitter profile</a>
 - When I am not coding, I am either binge watching shows or reading.
 <!--
 **ameysgithub/ameysgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
